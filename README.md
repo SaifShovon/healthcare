@@ -1,19 +1,70 @@
-### Health Care Institute
+# Getting Started with Create React App
 
-### Best amibulence in town
-Dhaka ambulance services are one of the reliable and expedite ambulance services in Bangladesh. We specialize in the transportation of critically ill patients by life support ICU ambulance. We have many types of ambulance. Such as ICU ambulance, Freezing ambulance, Hiace AC & Non AC ambulance. our service is provided within a cheap rate. if you want you can hire us.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### WE CARE YOUR HEALTH AND CHECKUP WITH BEST Technology
-It has a collection of the most advanced medical technologies. All the machineries which are being used here are designed with rigorous safety standards to aid in the diagnosis or treatment of medical problems.
+## Available Scripts
 
-### Take appointment from best doctors
-Once you've made an appointment you'll need to make sure you're prepared for your doctor's visit. Here is a short overview of what you'll need in the United States.
+In the project directory, you can run:
 
-### Intensive care unit
-An intensive care unit, also known as an intensive therapy unit or intensive treatment unit or critical care unit, is a special department of a hospital or health care facility that provides intensive care medicine.
+### `npm start`
 
-### Meet With an Online Doctor
-At PlushCare, you can talk to a board certified doctor from your phone or computer. Our online doctors are graduates from the top 50 U.S. medical schools and have an average of 15 years experience. When you choose PlushCare, you're choosing the highest level of care.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### The Best Online Pharmacies of 2021
-Online pharmacies can provide both affordability and give you easy and safe access to the medications you need without the need to leave the house. Ordering from online pharmacies is a fairly straightforward process, provided you have a computer or smartphone, a working internet connection, and a valid prescription. Many offer the convenience of auto-refills, so that you’ll have a steady supply of your daily medication.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
